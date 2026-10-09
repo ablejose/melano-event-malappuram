@@ -1,0 +1,33 @@
+{
+  "slug": "melano-event-malappuram",
+  "name": "Melano Event Malappuram",
+  "shortName": "Melano Event Malappuram",
+  "descriptor": "Event Management",
+  "address": "Machingal, Down Hill, Malappuram, Keralam 676509",
+  "area": "Down Hill",
+  "city": "Malappuram",
+  "district": "Malappuram",
+  "region": "Kerala",
+  "postalCode": "676509",
+  "geo": {
+    "lat": 11.0610011,
+    "lng": 76.0824205
+  },
+  "mapsLink": "https://maps.google.com/?cid=11646375307330968251",
+  "phone": "+91 97455 43451",
+  "whatsapp": "919745543451",
+  "hours": "Open 24 hours · all days",
+  "opens": "00:00",
+  "closes": "23:59",
+  "rating": 4.5,
+  "reviewCount": 2,
+  "reviews": [],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp",
+    "gallery/04.webp",
+    "gallery/05.webp"
+  ],
+  "url": "https://melano-event-malappuram.vercel.app"
+}
